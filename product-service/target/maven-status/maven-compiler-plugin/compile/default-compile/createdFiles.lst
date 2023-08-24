@@ -1,0 +1,13 @@
+com\codershere\productservice\repository\ProductRepository.class
+com\codershere\productservice\mapper\ProductMapper.class
+com\codershere\productservice\dto\ProductRequestDTO$ProductRequestDTOBuilder.class
+com\codershere\productservice\dto\ProductRequestDTO.class
+com\codershere\productservice\controller\ProductController.class
+com\codershere\productservice\model\Product$ProductBuilder.class
+com\codershere\productservice\service\ProductServiceImpl.class
+com\codershere\productservice\dto\ProductResponseDTO$ProductResponseDTOBuilder.class
+com\codershere\productservice\mapper\ProductMapperImpl.class
+com\codershere\productservice\service\ProductService.class
+com\codershere\productservice\model\Product.class
+com\codershere\productservice\dto\ProductResponseDTO.class
+com\codershere\productservice\ProductServiceApplication.class
