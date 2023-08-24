@@ -1,17 +1,18 @@
 package com.codershere.productservice.dto;
 
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
+import java.io.Serializable;
 import java.math.BigDecimal;
 
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
-@Data
-public class ProductResponseDTO {
+@Getter
+@Setter
+public class ProductResponseDTO implements Serializable {
+
+
 
     private String id;
     private String name;
